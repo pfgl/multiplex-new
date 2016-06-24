@@ -967,11 +967,11 @@ You can use this example if you want. Just replace all the variables
 and it will create a button dependant on those variables.
 */
 .blue-btn, .comment-reply-link, #submit {
-  background-color: #2980b9; }
+  background-color: #62819a; }
   .blue-btn:hover, .comment-reply-link:hover, #submit:hover, .blue-btn:focus, .comment-reply-link:focus, #submit:focus {
-    background-color: #2574a8; }
+    background-color: #5a778e; }
   .blue-btn:active, .comment-reply-link:active, #submit:active {
-    background-color: #2472a4; }
+    background-color: #58748a; }
 
 /******************************************************************
 Site Name:
@@ -1517,13 +1517,13 @@ style a page via class
 LINK STYLES
 *********************/
 a, a:visited {
-  color: #811014;
+  color: #62819a;
   text-decoration: none;
   /* on hover */
   /* on click */
   /* mobile tap color */ }
   a:hover, a:focus, a:visited:hover, a:visited:focus {
-    color: #580b0e;
+    color: #506a7e;
     text-decoration: underline; }
   a:link, a:visited:link {
     /*
@@ -1661,7 +1661,7 @@ and more scalable.
       text-decoration: none;
       padding: 0.75em;
       text-align: center;
-      background-color: #d31145;
+      background-color: #62819a;
       width: 50%;
       float: left;
       /*
@@ -1680,7 +1680,7 @@ and more scalable.
         .nav li ul.sub-menu li a,
         .nav li ul.children li a {
           background-color: #f8f9fa;
-          color: #2980b9; }
+          color: #62819a; }
 
 /* end .top-nav */
 /*********************
@@ -1974,9 +1974,9 @@ PAGE NAVI STYLES
     padding: 0.75em;
     min-width: 1em;
     display: block;
-    color: #2980b9; }
+    color: #62819a; }
     .pagination a:hover, .pagination a:focus, .pagination span:hover, .pagination span:focus {
-      background-color: #2980b9;
+      background-color: #62819a;
       color: #fff; }
   .pagination .current {
     cursor: default;
@@ -2403,7 +2403,7 @@ NAVIGATION STYLES
     margin-top: 0;
     margin-bottom: 0;
     border: 0;
-    background-color: #811014;
+    background-color: #62819a;
     -webkit-box-shadow: 0 0 5px #3c3c40;
     -moz-box-shadow: 0 0 5px #3c3c40;
     box-shadow: 0 0 5px #3c3c40;
