@@ -6,7 +6,7 @@
 
             <div class="main" role="main">
 
-                <h1 class="page-title">Applewood News</h1>
+                <h1 class="page-title">Multiplex News</h1>
 
                 <div class="posts">
 
