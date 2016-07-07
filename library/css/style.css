@@ -2206,7 +2206,7 @@ SIDEBARS & ASIDES
 .tab {
   color: #fff;
   text-shadow: 0 -1px 1px #830d2d;
-  background: #d01448;
+  background: #62819a;
   border-radius: 5px;
   -moz-border-radius: 5px;
   -webkit-border-radius: 5px;
@@ -2227,7 +2227,7 @@ SIDEBARS & ASIDES
   line-height: 2em; }
 
 .tab-purple {
-  background-color: #a21038; }
+  background-color: #0a304e; }
 
 .tab-grey {
   background-color: #797979; }
