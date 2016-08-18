@@ -2250,11 +2250,11 @@ SIDEBARS & ASIDES
   #sidebar-contact a {
     color: #fff; }
 
-#sidebar-legal {
+#sidebar-legal, #sidebar-testimonial {
   background-color: #898989;
   padding: 1em;
   font-size: .75em; }
-  #sidebar-legal a {
+  #sidebar-legal a, #sidebar-testimonial a {
     color: #fff; }
 
 .testimonial {
